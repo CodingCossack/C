@@ -6,5 +6,5 @@ Learn C Programming Course [Certificate](https://programiz.pro/certificates/08da
 
 Become a C Master Course [Certificate](https://programiz.pro/certificates/08daf0a7-5301-411a-8d17-06dcfbae6ca0)
 
-<img href="https://github.com/CodingCossack/C/files/10466023/Become.a.C.Master.pdf" width="200px" height="300px">
-<img href="https://github.com/CodingCossack/C/files/10466024/Learn.C.Programming.pdf" width="200px" height="300px">
+<img src="https://github.com/CodingCossack/C/files/10466023/Become.a.C.Master.pdf" width="200px" height="300px">
+<img src="https://github.com/CodingCossack/C/files/10466024/Learn.C.Programming.pdf" width="200px" height="300px">
